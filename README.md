@@ -10,7 +10,7 @@ Python_DataStructures_List.ipynb: Detailed implementation of list properties, co
 
 Sets & Tuples (Coming Soon): Practice with immutability, uniqueness, and mathematical set operations.
 
-Dictionaries (Coming Soon): Advanced key-value mapping and data aggregation.
+Python_DataStructures_Dictionaries.ipynb: Detailed implementation of dictionaries such as advanced key-value mapping and data aggregation.
 
 2. Control Structures & Functions
 Assignment 1 control structures.ipynb: Implementation of loops and conditional logic.
