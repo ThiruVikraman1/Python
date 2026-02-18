@@ -8,7 +8,7 @@ The goal of this repository is to document core Python programming concepts, dat
 1. Data Structures
 Python_DataStructures_List.ipynb: Detailed implementation of list properties, common methods, frequency mapping, and list comprehensions (including Celsius to Fahrenheit conversion).
 
-Sets & Tuples (Coming Soon): Practice with immutability, uniqueness, and mathematical set operations.
+Python_DataStructures_Tuples_Sets.ipynb: Detailed implementation of tuples and sets. Practice with immutability, uniqueness, and mathematical set operations.
 
 Python_DataStructures_Dictionaries.ipynb: Detailed implementation of dictionaries such as advanced key-value mapping and data aggregation.
 
